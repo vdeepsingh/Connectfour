@@ -78,8 +78,8 @@ public class Main extends Application {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("About The Developer");
         alert.setHeaderText("Varun");
-        alert.setContentText("I love to play around with code and create games. " +
-                "Connect 4 is one of them" +
+        alert.setContentText("I am making this game for checking my learning results. " +
+                "Connect 4 is made after completing java core" +
                 " Hope You Like this game. " +
                 "\nThank You!!!");
         alert.show();
